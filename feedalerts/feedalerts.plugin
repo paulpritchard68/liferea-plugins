@@ -1,0 +1,11 @@
+[Plugin]
+Module=feedalerts
+Loader=python3
+Icon=mail-unread
+IAge=2
+Name=Feed Alerts
+Description=Configurable feed notifier
+Authors=Paul Pritchard <paul@lightlyseard.online>
+Copyright=Copyright (c) 2017 Paul Pritchard
+Website=https://github.com/ExpatPaul/liferea-plugins
+Help=https://github.com/ExpatPaul/liferea-plugins
