@@ -5,6 +5,7 @@
 import sys
 import os
 import gi
+import re
 gi.require_version('Notify', '0.7')
 from gi.repository import GObject, Peas, PeasGtk, Gtk, Liferea, Notify
 from configparser import ConfigParser
