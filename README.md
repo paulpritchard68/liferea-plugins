@@ -1,5 +1,5 @@
 # Liferea Plugins #
-And ambitiously named collection of a single plugin.
+An ambitiously named collection of a single plugin.
 
 ## To install ##
 There is only one plugin at present, but it has its own directory. If I add any other plugins, they will also each have their own directory.
