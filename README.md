@@ -9,4 +9,5 @@ To install a plugin, copy the contents of the desired plugin directory to:
 
 The plugin can be activated in Liferea from the `Tools -> Preferences -> Plugins` menu.
 
+## Feedalerts ##
 At present, this can only be configured by directly editing the feedalerts.conf file. There is only one section (Main) and one key (Search). An empty search string will match everything, otherwise you can use any Python regular expression to match the feed title.
